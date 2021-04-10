@@ -1,3 +1,11 @@
+body {
+  background-color: #8e9398;
+}
+
+border {
+  color: #444b54;
+}
+
 .center-img {
   display: block;
   text-align: center;
@@ -7,5 +15,5 @@ h1 {
   font-family: Arial;
   font-style: strong;
   font-size: 75px;
-  color: purple;
+  color: #444b54;
 }
