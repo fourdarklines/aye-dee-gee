@@ -10,7 +10,7 @@ border {
 .menu {
   border: solid;
   font-family: Arial;
-  font-weight: strong;
+  font-style:  strong;
   background-color: #22252a;
   color: white;
 }
