@@ -4,9 +4,18 @@ body {
 
 border {
   color: #444b54;
+  padding: 20px;
 }
 
-.center-img {
+.menu {
+  border: solid;
+  font-family: Arial;
+  font-weight: strong;
+  background-color: #22252a;
+  color: white;
+}
+
+.center {
   display: block;
   text-align: center;
 }
